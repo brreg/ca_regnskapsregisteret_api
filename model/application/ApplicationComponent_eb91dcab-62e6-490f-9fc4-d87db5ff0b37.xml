@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Åpne data adapter"
+    id="eb91dcab-62e6-490f-9fc4-d87db5ff0b37"
+    documentation="Adapter som tilgjengeliggjør regnskapsregister data på åpne data format."/>

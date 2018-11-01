@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regnskapsregister Adapter"
+    id="735bf66d-3303-4803-8f0a-3ce517050939"
+    documentation="Leser XML fra Regnskapsregisteret og oppdaterer &quot;cache&quot;."/>

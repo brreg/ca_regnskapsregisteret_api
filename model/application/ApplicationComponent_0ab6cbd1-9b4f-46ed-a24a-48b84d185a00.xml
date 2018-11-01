@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Statistikk adapter"
+    id="0ab6cbd1-9b4f-46ed-a24a-48b84d185a00"
+    documentation="Adapter som tilgjengeliggjør bruksstatistikk data på egnet format."/>
