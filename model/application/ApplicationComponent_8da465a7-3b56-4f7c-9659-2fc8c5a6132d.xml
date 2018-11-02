@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bruksstatistikk"
+    name="Bruksstatistikk application"
     id="8da465a7-3b56-4f7c-9659-2fc8c5a6132d"
     documentation="Sub-komponent som tar i mot brukshendelser og lager bruksstatistikk"/>

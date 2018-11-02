@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02 Container Diagram"
-    id="f4be0362-e500-4cac-8815-2d00582919d3">
+    id="f4be0362-e500-4cac-8815-2d00582919d3"
+    documentation="Forsøker meg på ein hexagonal architecture pattern: https://declara.com/content/va7eLmgJ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="37baf124-46a1-4bd2-b62b-f6dad1b5b6b8"
@@ -114,9 +115,9 @@
             href="FlowRelationship_594376fa-8c8f-4c8a-b0b4-4aad53b336a8.xml#594376fa-8c8f-4c8a-b0b4-4aad53b336a8"/>
       </sourceConnections>
       <bounds
-          x="204"
+          x="185"
           y="336"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -161,9 +162,9 @@
             href="ServingRelationship_c7cf6f4c-8430-4fb6-8467-01de0e68cd8e.xml#c7cf6f4c-8430-4fb6-8467-01de0e68cd8e"/>
       </sourceConnections>
       <bounds
-          x="204"
+          x="168"
           y="216"
-          width="120"
+          width="156"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"

@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Regnskapsregister &quot;cache&quot;"
+    name="Regnskapsregister application"
     id="69f88598-3791-4729-9d5a-f5d862760722"
     documentation="Sub-komponent som får regnskapsregister data på &quot;standard&quot; format, persisterer og tilgjengeliggjør på &quot;normal&quot; form.&#xD;&#xA;Antar at dette er oppslag med organisasjonsnr som input."/>
